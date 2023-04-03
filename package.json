@@ -1,13 +1,11 @@
 {
   "name": "cv-maker",
-  "homepage": "https://github.com/samirls/cv-maker",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "deploy": "npm run build && gh-pages -d build",
     "preview": "vite preview"
   },
   "dependencies": {
